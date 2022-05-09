@@ -1,4 +1,4 @@
-- Olá, sou Victor Henrique
+# Olá, sou Victor Henrique
 - Tenho conhecimento em HTML, CSS e JavaScript
 - Atualmente estou estudando Java 
 - Atualmente estou fazendo curso técnico em Desenvolvimento de Sistemas 
